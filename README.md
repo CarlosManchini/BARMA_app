@@ -1,8 +1,10 @@
-### Shiny Application for Fitting Dynamic Models to Doubly-Bounded Time Series Data
+### Shiny Application for Fitting Dynamic Models to Double Bounded Time Series Data
 
 <p align="center">
   <img src="app.PNG" alt="APP" width="733">
 </p>
+
+Link: https://ufsm.shinyapps.io/appARMAs/
 
 Modeling rates and proportions observed over time is a common  problem in many areas of application.  By nature, such time series are limited to the interval $(0,1)$ and, hence, Gaussianity is an assumption that should be avoided [[1]](#fim). In this direction,  the class of beta autoregressive moving average ($\beta$ ARMA) models, proposed by [[2]](#fim), introduces a GLM-like dynamic model for time series restricted to $(0,1)$. The $\beta$ ARMA model assume that, conditionally to its past, the variable of interest follows a beta distribution while the conditional mean is modeled through a dynamical time dependent linear structure accommodating an ARMA-like term and a linear combination of exogenous covariates. The conditional mean is connected to the linear predictor through a suitable fixed link function.
 
