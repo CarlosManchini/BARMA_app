@@ -1,0 +1,26 @@
+---
+title: "authorship"
+author: "Author"
+date: "12 de setembro de 2018"
+output: html_document
+runtime: shiny
+---
+
+### Fábio Mariano Bayer
+> *Department of Statistics and LACESM*, Federal University of Santa Maria, Brazil.  
+> [Curriculum](http://lattes.cnpq.br/9904863693302949), [ResearchGate](https://www.researchgate.net/profile/Fabio_Bayer), email (bayer@ufsm.br).
+
+### Allan dos Santos
+> *Bachelor's Degree in Statistics*, Federal University of Santa Maria, Brazil.  
+> [Curriculum](http://lattes.cnpq.br/0780381260822434), email (allhan_nepomuceno@hotmail.com).
+<!-- B.Sc. -->
+ 
+### Carlos Eduardo Frantz Manchini
+> *Master's Degree in Statistics*, Federal University of Pernambuco, Brazil.  
+> [Curriculum](http://lattes.cnpq.br/4918675615939069), [LinkedIn](http://linkedin.com/in/carlos-eduardo-frantz-manchini/), email (carlos-efm@hotmail.com).
+<!-- M.Sc. -->
+
+### Diego Ramos Canterle
+> *DSc Student in Statistics*, University of São Paulo, Brazil.  
+> [Curriculum](http://lattes.cnpq.br/8050559582789892), email (diegocanterle@gmail.com).
+

@@ -1,0 +1,40 @@
+---
+title: "references"
+# author: "Allan"
+date: "12 de setembro de 2018"
+output: html_document
+runtime: shiny
+---
+
+#### **Beta autoregressive moving average model**
+
+- *Rocha, A. V. and Cribari-Neto, F.*. **[Beta autoregressive moving average models](https://doi.org/10.1007/s11749-008-0112-z)**, *Test*, Volume 18, Number 3, pages 529, 2009.
+
+- *Rocha, A. V. and Cribari-Neto, F.*. **[Erratum to: Beta autoregressive moving average models](https://doi.org/10.1007/s11749-017-0528-4)**, *Test*, Volume 26, Number 2, pages 451--459, 2017.
+
+- *Manchini, C. F. and Canterle, D. R. and Pumi, G. and, Bayer, F. M.*. **[Beta autoregressive moving average model with Aranda-Ordaz link function](Manuscript_submitted_to_Statistical_Papers)**, *Submitted manuscript (Journal of Statistical Computation and Simulation)*, 2022.
+
+
+#### **Related works**
+
+- *Bayer, F. M. and Cintra, R. J. and Cribari-Neto, F.*. **[Beta seasonal autoregressive moving average models](https://doi.org/10.1080/00949655.2018.1491974)**, *Journal of Statistical Computation and Simulation*, Volume 88, Number 15, pages 2961--2981, 2018.
+
+- *Bayer, F. M. and Bayer, D. M. and Pumi, G.*. **[Kumaraswamy autoregressive moving average models for double bounded environmental data](https://doi.org/10.1016/j.jhydrol.2017.10.006)**, *Journal of Hydrology*, Volume 555, pages 385--396, 2017.
+
+- *Benjamin, M. A. and Rigby, R. A. and Stasinopoulos, D. M.*. **[Generalized Autoregressive Moving Average Models](https://doi.org/10.1198/016214503388619238)**, *Journal of the American Statistical Association*, Volume 98, Number 461, pages 214--223 , 2003.
+
+- *Canterle, D. R. and Bayer, F. M.*. **[Variable dispersion beta regressions with parametric link functions](https://doi.org/10.1007/s00362-017-0885-9)**, *Statistical Papers*, Volume 60, Number 5, pages 1541--1567, 2019.
+
+- *Cribari-Neto, F. and Scher, V. and Bayer, F. M.*. **[Beta autoregressive moving average model selection with application to modeling and forecasting stored hydroelectric energy](https://doi.org/10.1016/j.ijforecast.2021.09.004)**, *International Journal of Forecasting*, 2021.
+
+- *Palm, B. G. and Bayer, F. M.*. **[Bootstrap-based inferential improvements in beta autoregressive moving average model](https://doi.org/10.1080/03610918.2017.1300268)**, *Communications in Statistics-Simulation and Computation*, Volume 47, Number 4, pages 977--996, 2018.
+
+- *Pumi, G. and Valk, M. and Bisognin, C. and Bayer, F. M. and Prass, T. S.*. **[Beta autoregressive fractionally integrated moving average models](https://doi.org/10.1016/j.jspi.2018.10.001)**, *Journal of Statistical Planning and Inference*, Volume 200, pages 196--212, 2018.
+
+
+
+
+
+<!-- **Beta autoregressive moving average model with Aranda-Ordaz link function**, *Manuscript submitted*, 2021. -->
+
+
