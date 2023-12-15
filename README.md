@@ -1,7 +1,7 @@
 ### Shiny Application for Fitting Dynamic Models to Double Bounded Time Series Data
 
 <p align="center">
-  <img src="app.PNG" alt="APP" width="713">
+  <img src="app.PNG" alt="APP" width="723">
 </p>
 
 Link: https://ufsm.shinyapps.io/appARMAs/
@@ -22,5 +22,5 @@ The Shiny package enables the exploration of R's graphical and statistical poten
 <br>
 
 <p align="center">
-  <img src="refs.png" alt="Refs" width="713">
+  <img src="refs.png" alt="Refs" width="703">
 </p>
